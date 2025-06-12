@@ -1,8 +1,9 @@
 # Pussytays
 Enfermedades de Transmisión Sexual (ETS)
 
-Inicio Servicios
+Inicio y servicios
 Información y Prevención
+
 Virus del Papiloma Humano (VPH)
 El VPH es una de las ETS más comunes. Algunos tipos pueden causar cáncer de cuello uterino.
 
